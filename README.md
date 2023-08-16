@@ -9,18 +9,18 @@
 
 - 🌱 I'm currently learning **GCP** and **AWS**
   
-- 💬 You can ask me questions about **Oracle**, **Chaos Engineering** and **Linux**
+- 💬 You can ask me questions about **Oracle**, **Chaos Engineering** and **Docker, Kubernetes, Helm, ELK, Azure DevOps**
 
 ## Languages and Tools:
   <p align="left"> 
-    <!--img src="img/ansible.svg" alt="ansible" width="40" height="40"/-->
+    <!--img src="img/ansible.svg" alt="ansible" width="40" height="40"/ Docker, Kubernetes, Helm, ELK, Azure DevOps -->
     <!--img src="img/terraform.svg" alt="terraform" width="40" height="40"/-->
     <img src="img/aws.png" alt="aws" width="40" height="40"/>
     <img src="img/azure.png" alt="azure" width="40" height="40"/> 
     <img src="img/bash.png" alt="bash" width="40" height="40"/> 
     <img src="img/docker.svg" alt="docker" width="40" height="40"/>
     <img src="img/git.png" alt="git" width="40" height="40"/> </a> 
-    <!--img src="img/go.png" alt="go" width="40" height="40"/-->
+    <!--img src="img/Kubernetes.png" alt="Kubernetes" width="40" height="40"/-->
     <img src="img/linux.png" alt="linux" width="40" height="40"/>
     <img src="img/nginx.png" alt="nginx" width="40" height="40"/></p>
 
