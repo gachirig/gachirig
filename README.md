@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Abel Chiriguayo!</h1>
 <h3 align="center">A passionate DevOps Engineer from Ecuador Living in Canada</h3>
 
-- 🏢 I'm currently working as a **DevOps Engineer** in **SoFi**!
+- 🏢 I'm currently working as a **Technical Support** in **SoFi**!
   
 - 🌱 I'm currently preparing an **AWS certification**
   
@@ -13,16 +13,16 @@
 
 ## Languages and Tools:
   <p align="left"> 
-    <img src="images/ansible.svg" alt="ansible" width="40" height="40"/>
-    <img src="images/terraform.svg" alt="terraform" width="40" height="40"/>
-    <img src="images/aws.png" alt="aws" width="40" height="40"/>
-    <img src="images/azure.png" alt="azure" width="40" height="40"/> 
-    <img src="images/bash.png" alt="bash" width="40" height="40"/> 
-    <img src="images/docker.svg" alt="docker" width="40" height="40"/>
-    <img src="images/git.png" alt="git" width="40" height="40"/> </a> 
-    <img src="images/go.png" alt="go" width="40" height="40"/>
-    <img src="images/linux.png" alt="linux" width="40" height="40"/>
-    <img src="images/nginx.png" alt="nginx" width="40" height="40"/></p>
+    <img src="img/ansible.svg" alt="ansible" width="40" height="40"/>
+    <img src="img/terraform.svg" alt="terraform" width="40" height="40"/>
+    <img src="img/aws.png" alt="aws" width="40" height="40"/>
+    <img src="img/azure.png" alt="azure" width="40" height="40"/> 
+    <img src="img/bash.png" alt="bash" width="40" height="40"/> 
+    <img src="img/docker.svg" alt="docker" width="40" height="40"/>
+    <img src="img/git.png" alt="git" width="40" height="40"/> </a> 
+    <img src="img/go.png" alt="go" width="40" height="40"/>
+    <img src="img/linux.png" alt="linux" width="40" height="40"/>
+    <img src="img/nginx.png" alt="nginx" width="40" height="40"/></p>
 
 
 
@@ -34,7 +34,7 @@
 
 
 <!--
-**MehdiBenIT/MehdiBenIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gachirig/gachirig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
