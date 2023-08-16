@@ -7,9 +7,9 @@
   
 - ⭐ I enjoy working on AWS projects that combine **automation** and **high availability**
 
-- 🌱 I'm currently learning **GO** and **AWS**
+- 🌱 I'm currently learning **GCP** and **AWS**
   
-- 💬 You can ask me questions about **Ansible**, **Terraform** and **Linux**
+- 💬 You can ask me questions about **Oracle**, **Cloud** and **Linux**
 
 ## Languages and Tools:
   <p align="left"> 
