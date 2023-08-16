@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning **GCP** and **AWS**
   
-- 💬 You can ask me questions about **Oracle**, **Cloud** and **Linux**
+- 💬 You can ask me questions about **Oracle**, **Chaos Engineering** and **Linux**
 
 ## Languages and Tools:
   <p align="left"> 
