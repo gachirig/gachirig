@@ -22,7 +22,7 @@
     <img src="img/git.png" alt="git" width="40" height="40"/> </a> 
     <!--img src="img/Kubernetes.png" alt="Kubernetes" width="40" height="40"/-->
     <img src="img/linux.png" alt="linux" width="40" height="40"/>
-    <img src="img/OpenShift-LogoType.svg" alt="nginx" width="40" height="40"/></p>
+    <img src="img/OC.png" alt="nginx" width="40" height="40"/></p>
 
 
 
